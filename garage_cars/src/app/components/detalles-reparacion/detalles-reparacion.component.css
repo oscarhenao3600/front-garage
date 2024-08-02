@@ -1,0 +1,53 @@
+input {
+	margin: 5px 0px; /*espacio entre los label*/
+	padding: 5px;/*tamaño del label*/
+	border-radius: 10px;
+	width: 100%;
+	font-size: 20px;/*tamaño de la letra*/
+	font-family: Arial;/*tipo de fuente*/
+  background-color: #c8c4c4;
+}
+
+textarea{
+  margin: 5px 0px; /*espacio entre los label*/
+	padding: 5px;/*tamaño del label*/
+	border-radius: 10px;
+	width: 100%;
+	font-size: 20px;/*tamaño de la letra*/
+	font-family: Arial;/*tipo de fuente*/
+  background-color: #c8c4c4;
+  border: none;
+
+}
+
+.btn-reparacion{
+  color: white !important;
+  background-color: #01395C;
+  border-radius: 20px;
+  padding: 12px;
+  width: auto;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+th {
+  font-size: 1rem;
+}
+
+.btn_enviar {
+  color: white !important;
+  background-color: #01395C;
+  border-radius: 20px;
+  padding: 8px;
+  width: auto;
+
+}
+
+.img-agregar{
+  object-fit: cover;
+  width:20%;
+  height:100%;
+}
